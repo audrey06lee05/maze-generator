@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#canvas {
+  width: 30%;
+  height: 30%;
+}
+
+#generate {
+  margin-top: 40px;
+  border: 25px;
+  padding: 15px;
+  border-radius: 15px;
+  background-color: rgb(30, 30, 91);
+  color: white;
+  font-family: monospace;
+  font-weight: lighter;
+  font-size: 15px;
+}
+
+#generate:hover {
+  cursor: pointer;
+  background-color: rgb(85, 55, 162);
+}
