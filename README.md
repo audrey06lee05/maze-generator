@@ -47,6 +47,7 @@ I use Breadth-First Search (BFS) to check if there is a valid path from the star
 #### 9️⃣ Event Listener for the "Generate" Button and Generator Function
 I set up an event listener for the "Generate" button. The generator function creates a new maze, initializes its contents, ensures it is solvable, and renders it on the canvas. The button click triggers this process, allowing users to generate new mazes dynamically.
 
-
+## 💡 Reflection
+This project is the most complex algorithmic-related endeavor I've ever undertaken. I faced significant challenges in finding the right method to randomly draw the maze walls while ensuring the maze remained solvable. Although I had learned about breadth-first search conceptually, it took considerable effort to implement it effectively. One of the biggest takeaways from this experience was learning a new algorithm—recursive division. This method greatly streamlined the process by efficiently dividing the maze, saving substantial time compared to accessing it pixel by pixel.
 
 
