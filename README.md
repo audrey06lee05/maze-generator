@@ -5,7 +5,7 @@
 🧱 Further details about how the maze generator was produced is captured below!
 <br/>
 
-## 🗣️ Language & Algorithms
+## 🗣️ Languages & Algorithms
 * HTML
 * JS
 * CSS
