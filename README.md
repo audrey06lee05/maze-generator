@@ -18,7 +18,7 @@
 3. You will see 3 files (.js, .html, .css)
 4. Right click the .html file and choose a web browser to use it <br/>
 
-💁🏻 You may view the source code using any code editor like VSCode.
+💁🏻 You may view the source code using any code editors like VSCode.
 
 ## ⛑️ Explanation of How the Maze Generator was Made
 #### 1️⃣ Canvas Setup and Initialization
